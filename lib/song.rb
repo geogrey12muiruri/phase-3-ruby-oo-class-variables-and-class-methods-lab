@@ -1,4 +1,5 @@
 class Song
+    #class variable
     @@count = 0
     @@artists = []
     @@genres = []
